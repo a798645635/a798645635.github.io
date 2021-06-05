@@ -36,7 +36,7 @@
     <article class="container">
         <section class="side" id="side">
 
-            <!-- 左栏固定开关，记得及时删除这段代码 Start-->
+           
             <label class="switch" style="display: none;" onchange="switchFixed()">
                 <script type="text/javaScript">
                     function switchFixed(){
@@ -59,7 +59,7 @@
                     .slider.round:before{border-radius:50%;}
                 }
             </style>
-            <!-- 左侧固定开关，记得及时删除这段代码 End-->
+            
 
             <!-- 个人肖像 -->
             <section class="me">
@@ -72,7 +72,7 @@
                         <span></span>
                     </div>
                     <!-- 头像照片 -->
-                    <img src="https://avatars.githubusercontent.com/u/62499748?s=400&u=dc922e23fd708248850ff2009454b288d0659f94&v=4" style="width: 100%;" alt="">
+                    <img src="https://avatars.githubusercontent.com/u/62499748?s=400&u=dc922e23fd708248850ff2009454b288d0659f94&v=4" style="width: 40%;" alt="">
                 </section>
 
                 <h1 class="name">李果</h1>
@@ -146,7 +146,7 @@
             <section class="qrcode info-unit">
                 <h2><i class="fa fa-qrcode" aria-hidden="true"></i>二维码</h2>
                 <hr/>
-                <img src="https://avatars.githubusercontent.com/u/62499748?s=400&u=dc922e23fd708248850ff2009454b288d0659f94&v=4" style="width: 100%;" alt="">
+                
             </section>
 
             <!-- 技术栈 -->
