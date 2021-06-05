@@ -186,31 +186,21 @@ homepage of me
                 <ul>
                     <li>
                         <h3>
-                            <span>[经历1]山东鲁抗医药股份有限公司－泰乐菌素603发酵车间</span>
-                            <time>2019.8 至 2019.10</time>
+                            <span>山东鲁抗医药股份有限公司－泰乐菌素603车间</span>
+                            <time>2019.8 - 2019.10</time>
                         </h3>
-                        <ul class="info-content">
                             <li>通过实地观察和与工厂师傅的交流，了解了关于发酵的更为细致的过程，对制药过程以及药厂本身有了更深的了解。</li>
                             <li>参与制水车间、发酵车间、干燥车间的日常工作，及工厂安排的各类培训</li>
                         </ul>
                     </li>
                     <li>
                         <h3>
-                            <span>[经历2]XX－前端开发工程师（实习）</span>
-                            <time>20XX.10-20XX.7</time>
+                            <span>其它经历</span>
                         </h3>
-                        <ul class="info-content">
-                            <li>深度参与公司主线产品「XXXX」的前端开发工作，完成帖子快捷回复、
-                                <mark>全站图片懒加载</mark>、活动banner、帖子管理（使用Yii框架）等功能。项目采用技术栈phpWind+NAMP。
-                                <a href="http://itsay.tech/162/" target="_blank">
-                                    <i class="fa fa-link" aria-hidden="true"></i>博客文章</a>。</li>
-                            <li>主要参与公司产品「XXXX」的前端开发工作，实现接入微博、微信、QQ等
-                                <mark>第三方账号登录</mark>等功能。项目采用技术栈WordPress+NAMP。</li>
-                            <li>活动页面的开发（七夕活动、抽奖活动以及承接外包页面）。</li>
-                            <li>论坛
-                                <mark>图片增量备份</mark>（CentOS+vsftpd+crontab）
-                                <a href="#" target="_blank">
-                                    <i class="fa fa-link" aria-hidden="true"></i>博客文章</a>。</li>
+                            <li>作为全国联网可查社区志愿者参与志愿（扶贫、一对一关爱失独老人、流动人口调查、人大选举、帮助举办百家宴活动）。</li>
+                            <li在校内参加了雷研的学生工作，担任宿舍学长，在校外加入了中国石油大学的两个社团。</li>
+                            <li>重庆新东方教育培训 外展。</li>
+                            <li>重庆市南岸区环境监测站测水样。</li>
                         </ul>
                     </li>
                 </ul>
