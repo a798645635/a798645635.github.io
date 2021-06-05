@@ -213,12 +213,8 @@ homepage of me
                     <li>
                         <h3>
                             <span>计算机辅助BTK激酶小分子抑制剂的构效关系研究</span>
-                            <span class="link">
-                                <a href="#" target="_blank">Demo</a>
-                            </span>
                             <time>2021-</time>
                         </h3>
-                        <ul class="info-content">
                             <li>技术栈：Python(pandas,numpy, scikt-learn,Rdkit),VOSviewer</li>
                             <li>对btk相关的文献进行文献聚类分析</li>
                             <li>收集BTK激酶小分子抑制剂的生物活性信息构建数据库，计算描述符后，拟采用多种机器学习方法建立分类和回归模型。</li>
@@ -227,69 +223,22 @@ homepage of me
                     <li>
                         <h3>
                             <span>计算机类课程的大作业</span>
-                            <span class="link">
-                                <a href="#" target="_blank">Demo</a>
-                            </span>
                             <time>2020.9-2021.6</time>
                         </h3>
-                        <ul class="info-content">
                             <li>技术栈：Python,Matlab,VBA</li>
-                            <li>
-                            </li>
+                            <li>数据挖掘原型系统
+                            <br/>
+                            基于关联规则的分类算法<br/>
+                            决策树用于分类<br/>
+                            k-means用于聚类<br/>
+                            带界面（tkinter），可视化 </li>
+                            <li>误差数据的回归，检验，信号的去噪与傅里叶变换</li>
+                            <li>神经网络的简单实现</li>
+                            <li>力扣上题目的练习</li>
                         </ul>
                     </li>
                     <li>
-                        <h3>
-                            <span>[项目3]肿瘤流行病数据可视化</span>
-                            <span class="link">
-                                <a href="#" target="_blank">Demo</a>
-                            </span>
-                            <time>201X.X-201X.X</time>
-                        </h3>
-                        <ul class="info-content">
-                            <li>技术栈：HTML 5+D3.js+ECharts+MySQL</li>
-                            <li>
-                                <i class="fa fa-paper-plane-o" aria-hidden="true"></i>
-                                [目标]实现常见肿瘤流行病数据多维度可视化展示、数据透视及分析
-                                <br/>
-                                <i class="fa fa-users" aria-hidden="true"></i>
-                                [团队]与 1 位同学
-                                <br/>
-                                <i class="fa fa-bars" aria-hidden="true"></i>
-                                [贡献]分析项目需求，清洗并整理相关数据(扩展第三方知识组织系统和 Google trends 数据)，并用
-                                <mark>D3.js</mark> 和
-                                <mark>ECharts</mark> 进行图形化展示以及实现简易自动分析功能
-                                <br/>
-                                <i class="fa fa-thumbs-o-up" aria-hidden="true"></i>
-                                [效果]作品取得第二届共享杯国家级竞赛“特等奖”(1/1500)
-                            </li>
-                        </ul>
-                    </li>
-                    <li>
-                        <h3>
-                            <span>[项目4]肿瘤流行病数据可视化</span>
-                            <span class="link">
-                                <a href="#" target="_blank">Demo</a>
-                            </span>
-                            <time>201X.X-201X.X</time>
-                        </h3>
-                        <ul class="info-content">
-                            <li>技术栈：HTML 5+D3.js+ECharts+MySQL</li>
-                            <li>
-                                <i class="fa fa-paper-plane-o" aria-hidden="true"></i>
-                                [目标]实现常见肿瘤流行病数据多维度可视化展示、数据透视及分析
-                                <br/>
-                                <i class="fa fa-users" aria-hidden="true"></i>
-                                [团队]与 1 位
-                                <br/>
-                                <i class="fa fa-bars" aria-hidden="true"></i>
-                                [贡献]分析项目需求，清洗并整理相关数据(扩展第三方知识组织系统和 Google trends 数据)，并用
-                                <mark>D3.js</mark> 和
-                                <mark>ECharts</mark> 进行图形化展示以及实现简易自动分析 功能
-                                <br/>
-                                <i class="fa fa-thumbs-o-up" aria-hidden="true"></i>
-                                [效果]作品取得第二届共享杯国家级竞赛“特等奖”(1/1500)
-                            </li>
+                        
                         </ul>
                     </li>
 
