@@ -161,7 +161,7 @@ homepage of me
                 <ul>
                     <li>
                         <h3>
-                            <span>北京化工大学 - 药学（药物信息学）（硕士）</span>
+                            <span>北京化工大学 - 药学（药物信息学）（学硕）</span>
                             <time>2020.9-</time>
                         </h3>
                         <p>GPA
@@ -170,7 +170,7 @@ homepage of me
                     <li>
                         <h3>
                             <span>北京化工大学大学 - 制药工程（卓越工程师实验班）（本科）</span>
-                            <time>201X.9-201X.7</time>
+                            <time>2016.9-2020.6</time>
                         </h3>
                         <p>
                             <mark>获推免资格</mark>，校三好学生，奖学金六次。</p>
@@ -186,17 +186,12 @@ homepage of me
                 <ul>
                     <li>
                         <h3>
-                            <span>[经历1]XX公司－前端开发工程师（实习）</span>
-                            <time>2016.X 至 2017.X</time>
+                            <span>[经历1]山东鲁抗医药股份有限公司－泰乐菌素603发酵车间</span>
+                            <time>2019.8 至 2019.10</time>
                         </h3>
                         <ul class="info-content">
-                            <li>深度参与XX项目迭代XX的前端开发工作，独立承担并完成XX、XX、XXXX等功能点的开发，主要维护并修复XX、XX、XX等功能点bug若干。项目采用技术栈
-                                <mark>React+React Router+Node.js+SASS</mark>，实现
-                                <mark>前后端完全分离</mark>。</li>
-                            <li>配合UI和后端，根据产品需求提供H5页面嵌入到后台模板，要求
-                                <mark>移动端显示正常</mark>。</li>
-                            <li>主要参与XXXXXXX的静态页面开发工作，要求
-                                <mark>在支付宝环境下完全兼容</mark>。</li>
+                            <li>通过实地观察和与工厂师傅的交流，了解了关于发酵的更为细致的过程，对制药过程以及药厂本身有了更深的了解。</li>
+                            <li>参与制水车间、发酵车间、干燥车间的日常工作，及工厂安排的各类培训</li>
                         </ul>
                     </li>
                     <li>
