@@ -218,7 +218,7 @@ homepage of me
                             <li>技术栈：Python(pandas,numpy, scikt-learn,Rdkit),VOSviewer</li>
                             <li>对btk相关的文献进行文献聚类分析</li>
                             <li>收集BTK激酶小分子抑制剂的生物活性信息构建数据库，计算描述符后，拟采用多种机器学习方法建立分类和回归模型。</li>
-                        </ul>
+                        
                     </li>
                     <li>
                         <h3>
@@ -234,15 +234,20 @@ homepage of me
                             带界面（tkinter），可视化 </li>
                             <li>误差数据的回归，检验，信号的去噪与傅里叶变换</li>
                             <li>神经网络的简单实现</li>
-                            <li>力扣上题目的练习</li>
-                        </ul>
+                            <li>力扣上题目的练习</li> 
                     </li>
                     <li>
+                        <h3>
+                            <span>本科科研经历</span>
+                            <time>2016-2020</time>
+                        </h3>
+                            <li>麝香壮骨膏的质量标准研究</li>
+                            <li>植物油脂的酶法水解工艺研究</li>
+                            <li>年产100吨葵花籽油酸的工艺设计</li>
                         
-                        </ul>
                     </li>
 
-                </ul>
+                
             </section>
 
             <!-- 自我评价 -->
