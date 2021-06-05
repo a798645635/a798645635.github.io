@@ -191,7 +191,7 @@ homepage of me
                         </h3>
                             <li>通过实地观察和与工厂师傅的交流，了解了关于发酵的更为细致的过程，对制药过程以及药厂本身有了更深的了解。</li>
                             <li>参与制水车间、发酵车间、干燥车间的日常工作，及工厂安排的各类培训</li>
-                        </ul>
+                        
                     </li>
                     <li>
                         <h3>
@@ -201,8 +201,6 @@ homepage of me
                             <li在校内参加了雷研的学生工作，担任宿舍学长，在校外加入了中国石油大学的两个社团。</li>
                             <li>重庆新东方教育培训 外展。</li>
                             <li>重庆市南岸区环境监测站测水样。</li>
-                        </ul>
-                    </li>
                 </ul>
             </section>
 
@@ -221,34 +219,22 @@ homepage of me
                             <time>2021-</time>
                         </h3>
                         <ul class="info-content">
+                            <li>技术栈：Python(pandas,numpy, scikt-learn,Rdkit),VOSviewer</li>
                             <li>对btk相关的文献进行文献聚类分析</li>
                             <li>收集BTK激酶小分子抑制剂的生物活性信息构建数据库，计算描述符后，拟采用多种机器学习方法建立分类和回归模型。</li>
                         </ul>
                     </li>
                     <li>
                         <h3>
-                            <span>[项目2]肿瘤流行病数据可视化</span>
+                            <span>计算机类课程的大作业</span>
                             <span class="link">
                                 <a href="#" target="_blank">Demo</a>
                             </span>
-                            <time>201X.X-201X.X</time>
+                            <time>2020.9-2021.6</time>
                         </h3>
                         <ul class="info-content">
-                            <li>技术栈：HTML 5+D3.js+ECharts+MySQL</li>
+                            <li>技术栈：Python,Matlab,VBA</li>
                             <li>
-                                <i class="fa fa-paper-plane-o" aria-hidden="true"></i>
-                                [目标]实现常见肿瘤流行病数据多维度可视化展示、数据透视及分析
-                                <br/>
-                                <i class="fa fa-users" aria-hidden="true"></i>
-                                [团队]与 1 位同学
-                                <br/>
-                                <i class="fa fa-bars" aria-hidden="true"></i>
-                                [贡献]分析项目需求，清洗并整理相关数据(扩展第三方知识组织系统和 Google trends 数据)，并用
-                                <mark>D3.js</mark> 和
-                                <mark>ECharts</mark> 进行图形化展示以及实现简易自动分析 功能
-                                <br/>
-                                <i class="fa fa-thumbs-o-up" aria-hidden="true"></i>
-                                [效果]作品取得第二届共享杯国家级竞赛“特等奖”(1/1500)
                             </li>
                         </ul>
                     </li>
