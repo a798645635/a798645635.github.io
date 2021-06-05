@@ -214,27 +214,15 @@ homepage of me
                 <ul>
                     <li>
                         <h3>
-                            <span>[项目1]医学科学数据管理与共享平台</span>
+                            <span>计算机辅助BTK激酶小分子抑制剂的构效关系研究</span>
                             <span class="link">
                                 <a href="#" target="_blank">Demo</a>
                             </span>
-                            <time>201X.X-201X.X</time>
+                            <time>2021-</time>
                         </h3>
                         <ul class="info-content">
-                            <li>技术栈：ThinkPHP+MongoDB+Axure</li>
-                            <li>
-                                <i class="fa fa-paper-plane-o" aria-hidden="true"></i>
-                                [目标]实现多类型多来源医学科学数据的提交、管理和共享
-                                <br/>
-                                <i class="fa fa-users" aria-hidden="true"></i>
-                                [团队]同 2 位同专业同学一起
-                                <br/>
-                                <i class="fa fa-bars" aria-hidden="true"></i>
-                                [贡献]完成从
-                                <mark>“调研-设计-实现-文档”</mark>等工作，主要负责系统原型、功能框架及数据提交流程、元数据及源数据的管理与共享方案的设计以及系统开发等工作
-                                <br/>
-                                <i class="fa fa-thumbs-o-up" aria-hidden="true"></i>
-                                [效果]作品最终取得第三届共享杯国家级竞赛“一等奖” （2/2000）</li>
+                            <li>对btk相关的文献进行文献聚类分析</li>
+                            <li>收集BTK激酶小分子抑制剂的生物活性信息构建数据库，计算描述符后，拟采用多种机器学习方法建立分类和回归模型。</li>
                         </ul>
                     </li>
                     <li>
