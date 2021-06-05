@@ -72,7 +72,7 @@
                         <span></span>
                     </div>
                     <!-- 头像照片 -->
-                    <img src="https://avatars.githubusercontent.com/u/62499748?s=400&u=dc922e23fd708248850ff2009454b288d0659f94&v=4" style="width: 40%;" alt="">
+                    <img src="https://avatars.githubusercontent.com/u/62499748?s=400&u=dc922e23fd708248850ff2009454b288d0659f94&v=4" style="width: 10%;" alt="">
                 </section>
 
                 <h1 class="name">李果</h1>
@@ -105,11 +105,11 @@
                 <ul>
                     <li>
                         <label>手机</label>
-                        <a href="tel:19801204930" target="_blank">151-6828-5219</a>
+                        <a href="tel:19801204930" target="_blank">198-0120-4930</a>
                     </li>
                     <li>
                         <label>邮箱</label>
-                        <a href="mailto:798645635@qq.com" target="_blank">ze.zh@hotmail.com</a>
+                        <a href="mailto:798645635@qq.com" target="_blank">798645635@qq.com</a>
                     </li>
                     <li>
                         <label>b站</label>
