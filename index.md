@@ -149,25 +149,6 @@ homepage of me
                 
             </section>
 
-            <!-- 技术栈 -->
-            <!-- <div class="stack info-unit">
-                    <h2><i class="fa fa-code" aria-hidden="true"></i>其他</h2>
-                    <hr/>
-                    <ul>
-                        <li>
-                            <label>前端</label>
-                            <span>React、jQuery、微信小程序、Bootstrap、SASS、LESS</span>
-                        </li>
-                        <li>
-                            <label>后端</label>
-                            <span>Node.js、MySQL、MongoDB、WordPress、ThinkPHP</span>
-                        </li>
-                        <li>
-                            <label>其他</label>
-                            <span>Git、SVN、Markdown</span>
-                        </li>
-                    </ul>
-                </div> -->
         </section>
 
         <section class="main">
@@ -180,19 +161,19 @@ homepage of me
                 <ul>
                     <li>
                         <h3>
-                            <span>XXXX大学 - XXX专业（硕士）</span>
-                            <time>201X.9-201X.7</time>
+                            <span>北京化工大学 - 药学（药物信息学）（硕士）</span>
+                            <time>2020.9-</time>
                         </h3>
-                        <p>专业排名
-                            <mark>X/XX</mark>，期间发表国际会议英文摘要X篇，国内核心期刊文章X篇（其中第一作者X篇），获XXX，XXX2次，XXX2次。(此处根据自身情况填写，可以突出自己的亮点，或者跟求职目标相关的内容)</p>
+                        <p>GPA
+                            <mark>3.52/4.00</mark>，相关课程：高等药物化学  数据挖掘与应用  神经网络技术  算法分析与复杂性理论 人工智能原理  误差理论</p>
                     </li>
                     <li>
                         <h3>
-                            <span>XXXX大学 - XXX专业（本科）</span>
+                            <span>北京化工大学大学 - 制药工程（卓越工程师实验班）（本科）</span>
                             <time>201X.9-201X.7</time>
                         </h3>
-                        <p>专业排名
-                            <mark>X/XX</mark>，期间发表国内核心期刊文章X篇，三等奖学金X次。</p>
+                        <p>
+                            <mark>获推免资格</mark>，校三好学生，奖学金六次。</p>
                     </li>
                 </ul>
             </section>
