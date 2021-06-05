@@ -271,6 +271,4 @@ homepage of me
     </aside>
 
     <script src="./assets/js/index.js"></script>
-</body>
 
-</html>
