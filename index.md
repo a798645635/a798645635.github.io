@@ -173,7 +173,7 @@ homepage of me
                             <time>2016.9-2020.6</time>
                         </h3>
                         <p>
-                            <mark>获推免资格</mark>，校三好学生，奖学金六次。</p>
+                            获推免资格，校三好学生，奖学金六次。</p>
                     </li>
                 </ul>
             </section>
@@ -201,8 +201,7 @@ homepage of me
                             <li>在校内参加了雷研的学生工作，担任宿舍学长，在校外加入了中国石油大学的两个社团。</li>
                             <li>重庆新东方教育培训 外展。</li>
                             <li>重庆市南岸区环境监测站测水样。</li>
-                </ul>
-            </section>
+             
 
             <!-- 项目经验 -->
             <section class="project info-unit">
