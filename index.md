@@ -105,7 +105,7 @@ homepage of me
                 <ul>
                     <li>
                         <label>手机</label>
-                        <a href="tel:19801204930" target="_blank">198-0120-4930</a>
+                        <a href="tel:19801204930" target="_blank">198-0120-4930(微信同号)</a>
                     </li>
                     <li>
                         <label>邮箱</label>
