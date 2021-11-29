@@ -234,7 +234,7 @@ homepage of me
                     </li>
                     <li>
                         <h3>
-                            <span>实验室网站搭建</span>
+                            <span>实验室网站搭建与维护</span>
                             <time>2021-</time>
                         </h3>
                             <li><a href="http://www.cadd408.com/index.html">CADD408</a></li>
