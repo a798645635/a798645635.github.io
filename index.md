@@ -130,7 +130,11 @@ homepage of me
                 <ul>
                     <li>
                         <label>Python</label>
-                        <progress value="65" max="100"></progress>
+                        <progress value="80" max="100"></progress>
+                    </li>
+                    <li>
+                        <label>html</label>
+                        <progress value="60" max="100"></progress>
                     </li>
                     <li>
                         <label>VB</label>
@@ -226,6 +230,14 @@ homepage of me
                             <li>技术栈：Python(pandas,numpy, scikt-learn,Rdkit),VOSviewer</li>
                             <li>对btk相关的文献进行文献聚类分析。</li>
                             <li>收集BTK激酶小分子抑制剂的生物活性信息构建数据库，计算描述符后，拟采用多种机器学习方法建立分类和回归模型。</li>
+                        
+                    </li>
+                    <li>
+                        <h3>
+                            <span>实验室网站搭建</span>
+                            <time>2021-</time>
+                        </h3>
+                            <li><a href="http://www.cadd408.com/index.html">CADD408</a></li>
                         
                     </li>
                     <li>
