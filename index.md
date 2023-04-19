@@ -1,11 +1,10 @@
-homepage of me
+<!DOCTYPE html>
 <html lang="zh-cn">
 
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no"
-    />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no" />
     <meta name="apple-mobile-web-app-status-bar-style" content="black" />
     <meta name="format-detection" content="email=no" />
     <meta name="apple-mobile-web-app-capable" content="yes" />
@@ -21,12 +20,7 @@ homepage of me
     <link rel="stylesheet" href="assets/css/typo.css">
     <link rel="stylesheet" href="assets/css/font-awesome.min.css">
     <link rel="stylesheet" href="assets/css/index.css">
-    <script>
-        function loading() {
-            document.getElementsByClassName('avatar')[0].style.display = 'block';
-            document.getElementsByClassName('loading')[0].style.display = 'none';
-        }
-    </script>
+    <script src="assets/js/loading.js"></script>
 </head>
 
 <body>
@@ -35,32 +29,12 @@ homepage of me
 
     <article class="container">
         <section class="side" id="side">
-
-           
             <label class="switch" style="display: none;" onchange="switchFixed()">
-                <script type="text/javaScript">
-                    function switchFixed(){
-                        var value = document.getElementById('side').style.position === 'fixed' ? 'absolute' : 'fixed';
-                        document.getElementById('side').style.position = value;
-                    }
-                </script>
+                <script src="assets/js/switchFixed.js"></script>
                 <input id="cb" type="checkbox">
                 <span class="slider round"></span>
             </label>
-            <style>
-                @media (min-width: 	750px){
-                    .switch{position:relative;display:inline-block!important;width:60px;height:34px;}
-                    .switch input{display:none;}
-                    .slider{position:absolute;cursor:pointer;top:0;left:0;right:0;bottom:0;background-color:#ccc;-webkit-transition:.4s;transition:.4s;}
-                    .slider:before{position:absolute;content:"";height:26px;width:26px;left:4px;bottom:4px;background-color:white;-webkit-transition:.4s;transition:.4s;}
-                    input:checked + .slider{background-color:#1abc9c;}
-                    input:focus + .slider{box-shadow:0 0 1px #1abc9c;}
-                    input:checked + .slider:before{-webkit-transform:translateX(26px);-ms-transform:translateX(26px);transform:translateX(26px);}.slider.round{border-radius:34px;}
-                    .slider.round:before{border-radius:50%;}
-                }
-            </style>
-            
-
+            <link rel="stylesheet" href="assets/css/switch.css">
             <!-- 个人肖像 -->
             <section class="me">
                 <section class="portrait">
@@ -97,55 +71,55 @@ homepage of me
                 </ul>
             </section>
 
-            <!-- 联系方式 -->
-            <section class="contact info-unit">
-                <h2>
-                    <i class="fa fa-phone" aria-hidden="true"></i>联系方式</h2>
-                <hr/>
-                <ul>
-                    <li>
-                        <label>手机</label>
-                        <a href="tel:19801204930" target="_blank">198-0120-4930(微信同号)</a>
-                    </li>
-                    <li>
-                        <label>邮箱</label>
-                        <a href="mailto:798645635@qq.com" target="_blank">798645635@qq.com</a>
-                    </li>
-                    <li>
-                        <label>b站</label>
-                        <a href="https://space.bilibili.com/11537101" target="_blank">space.bilibili.com/11537101/</a>
-                    </li>
-                    <li>
-                        <label>Github</label>
-                        <a href="https://github.com/a798645635" target="_blank">github.com/a798645635</a>
-                    </li>
-                </ul>
-            </section>
+        <!-- 联系方式 -->
+        <section class="contact info-unit">
+            <h2>
+                <i class="fa fa-phone" aria-hidden="true"></i>联系方式</h2>
+            <hr/>
+            <ul>
+                <li>
+                    <label>手机</label>
+                    <a href="tel:19801204930" target="_blank">198-0120-4930(微信同号)</a>
+                </li>
+                <li>
+                    <label>邮箱</label>
+                    <a href="mailto:798645635@qq.com" target="_blank">798645635@qq.com</a>
+                </li>
+                <li>
+                    <label>b站</label>
+                    <a href="https://space.bilibili.com/11537101" target="_blank">space.bilibili.com/11537101/</a>
+                </li>
+                <li>
+                    <label>Github</label>
+                    <a href="https://github.com/a798645635" target="_blank">github.com/a798645635</a>
+                </li>
+            </ul>
+        </section>
 
-            <!-- 技能点 -->
-            <section class="skill info-unit">
-                <h2>
-                    <i class="fa fa-code" aria-hidden="true"></i>技能点</h2>
-                <hr/>
-                <ul>
-                    <li>
-                        <label>Python</label>
-                        <progress value="80" max="100"></progress>
-                    </li>
-                    <li>
-                        <label>html</label>
-                        <progress value="60" max="100"></progress>
-                    </li>
-                    <li>
-                        <label>VB</label>
-                        <progress value="60" max="100"></progress>
-                    </li>
-                    <li>
-                        <label>文献检索及聚类</label>
-                        <progress value="90" max="100"></progress>
-                    </li>
-                </ul>
-            </section>
+        <!-- 技能点 -->
+        <section class="skill info-unit">
+            <h2>
+                <i class="fa fa-code" aria-hidden="true"></i>技能点</h2>
+            <hr/>
+            <ul>
+                <li>
+                    <label>Python</label>
+                    <progress value="80" max="100"></progress>
+                </li>
+                <li>
+                    <label>html</label>
+                    <progress value="60" max="100"></progress>
+                </li>
+                <li>
+                    <label>VB</label>
+                    <progress value="60" max="100"></progress>
+                </li>
+                <li>
+                    <label>文献检索及聚类</label>
+                    <progress value="90" max="100"></progress>
+                </li>
+            </ul>
+        </section>
 
             <section class="qrcode info-unit">
                 <h2><i class="fa fa-qrcode" aria-hidden="true"></i>二维码</h2>
@@ -157,105 +131,109 @@ homepage of me
 
         <section class="main">
 
-            <!-- 教育经历 -->
-            <section class="edu info-unit">
-                <h2>
-                    <i class="fa fa-graduation-cap" aria-hidden="true"></i>教育经历</h2>
-                <hr/>
-                <ul>
-                    <li>
-                        <h3>
-                            <span>北京化工大学 - 药学（药物信息学）（学硕）</span>
-                            <time>2020.9-</time>
-                        </h3>
-                        <p>GPA
-                            3.57/4.00，相关课程：<mark>高等药物化学(A)</mark>  <mark>数据挖掘与应用(A)</mark>  神经网络技术(A) 程序设计方法学(A) 算法分析与复杂性理论(A) 人工智能原理  误差理论</p>
-                    </li>
-                    <li>
-                        <h3>
-                            <span>北京化工大学大学 - 制药工程（卓越工程师实验班）（本科）</span>
-                            <time>2016.9-2020.6</time>
-                        </h3>
-                        <p>
-                            获推免资格，校三好学生，奖学金八次。</p>
-                    </li>
-                </ul>
-            </section>
+<!-- 教育经历 -->
+<section class="edu info-unit">
+    <h2>
+        <i class="fa fa-graduation-cap" aria-hidden="true"></i>教育经历</h2>
+    <hr/>
+    <ul>
+        <li>
+            <h3>
+                <span>北京化工大学 - 药学（药物信息学）（硕士研究生）</span>
+                <time>2020.9-</time>
+            </h3>
+            <p>GPA
+                3.57/4.00，相关课程：<mark>高等药物化学(A)</mark>  <mark>数据挖掘与应用(A)</mark>  神经网络技术(A) 程序设计方法学(A) 算法分析与复杂性理论(A) 人工智能原理  误差理论</p>
+        </li>
+        <li>
+            <h3>
+                <span>北京化工大学 - 制药工程（卓越工程师实验班）（本科）</span>
+                <time>2016.9-2020.6</time>
+            </h3>
+            <p>
+                获推免资格，校三好学生，奖学金八次。</p>
+        </li>
+    </ul>
+</section>
 
-            <!-- 工作经历 -->
-            <section class="work info-unit">
-                <h2>
-                    <i class="fa fa-shopping-bag" aria-hidden="true"></i>工作经历</h2>
-                <hr/>
-                <ul>
-                     <li>
-                        <h3>
-                            <span>超维知药科技有限公司－项目组-化学信息学工程师实习生</span>
-                            <time>2021.6 - 2021.8</time>
-                        </h3>
-                            <li>撰写靶点项目调研报告。</li>
-                            <li>根据靶点收集小分子抑制剂的活性信息。</li>
-                            <li>写一些项目中需要用到的小脚本。</li>
-                    <li>
-                        <h3>
-                            <span>山东鲁抗医药股份有限公司－泰乐菌素603车间</span>
-                            <time>2019.8 - 2019.10</time>
-                        </h3>
-                            <li>通过实地观察和与工厂师傅的交流，了解了关于发酵的更为细致的过程，对制药过程以及药厂本身有了更深的了解。</li>
-                            <li>参与制水车间、发酵车间、干燥车间的日常工作，及工厂安排的各类培训。</li>
-                        
-                    </li>
-                    <li>
-                        <h3>
-                            <span>其它经历</span>
-                        </h3>
-                            <li>作为全国联网可查社区志愿者参与志愿（扶贫、一对一关爱失独老人、流动人口调查、人大选举、帮助举办百家宴活动）。</li>
-                            <li>在校内参加了雷研的学生工作，担任宿舍学长，在校外加入了中国石油大学的两个社团。</li>
-                            <li>重庆新东方教育培训 外展。</li>
-                            <li>重庆市南岸区环境监测站测水样。</li>
-                
-             
+<!-- 工作经历 -->
+<section class="work info-unit">
+    <h2>
+        <i class="fa fa-shopping-bag" aria-hidden="true"></i>工作经历</h2>
+    <hr/>
+    <ul>
+        <li>
+            <h3>
+                <span>超维知药科技有限公司－项目组-化学信息学工程师实习生</span>
+                <time>2021.6 - 2021.8</time>
+            </h3>
+            <ul>
+                <li>撰写靶点项目调研报告。</li>
+                <li>根据靶点收集小分子抑制剂的活性信息。</li>
+                <li>编写项目中需要用到的小脚本。</li>
+            </ul>
+        </li>
+        <li>
+            <h3>
+                <span>山东鲁抗医药股份有限公司－泰乐菌素603车间</span>
+                <time>2019.8 - 2019.10</time>
+            </h3>
+            <ul>
+                <li>通过实地观察和与工厂师傅的交流，了解了关于发酵的更为细致的过程，对制药过程以及药厂本身有了更深的了解。</li>
+                <li>参与制水车间、发酵车间、干燥车间的日常工作，以及工厂安排的各类培训。</li>
+            </ul>
+        </li>
+        <li>
+<h3>
+    <span>其他经历</span>
+</h3>
+<ul>
+    <li>全国联网可查社区志愿者，参与扶贫、一对一关爱失独老人、流动人口调查、人大选举及协助举办百家宴活动。</li>
+    <li>在校内担任宿舍学长，积极参加雷研学生工作；在校外加入了中国石油大学的两个社团。</li>
+    <li>重庆新东方教育培训外展活动参与者。</li>
+    <li>在重庆市南岸区环境监测站负责测量水样。</li>
+</ul>
 
-            <!-- 项目经验 -->
-            <section class="project info-unit">
-                <h2>
-                    <i class="fa fa-terminal" aria-hidden="true"></i>个人项目</h2>
-                <hr/>
-                <ul>
-                    <li>
-                        <h3>
-                            <span>计算机辅助BTK激酶小分子抑制剂的构效关系研究</span>
-                            <time>2021-</time>
-                        </h3>
-                            <li>技术栈：Python(pandas,numpy, scikt-learn,Rdkit),VOSviewer</li>
-                            <li>对btk相关的文献进行文献聚类分析。</li>
-                            <li>收集BTK激酶小分子抑制剂的生物活性信息构建数据库，计算描述符后，拟采用多种机器学习方法建立分类和回归模型。</li>
-                        
-                    </li>
-                    <li>
-                        <h3>
-                            <span>实验室网站搭建与维护</span>
-                            <time>2021-</time>
-                        </h3>
-                            <li><a href="http://www.cadd408.com/index.html">CADD408</a></li>
-                        
-                    </li>
-                    <li>
-                        <h3>
-                            <span>计算机类课程的大作业</span>
-                            <time>2020.9-2021.6</time>
-                        </h3>
-                            <li>技术栈：Python,Matlab,VBA</li>
-                            <li>数据挖掘原型系统。
-                            <br/>
-                            基于关联规则的分类算法<br/>
-                            决策树用于分类<br/>
-                            k-means用于聚类<br/>
-                            带界面（tkinter），可视化</li>
-                            <li>误差数据的回归，检验，信号的去噪与傅里叶变换。</li>
-                            <li>神经网络的简单实现。</li>
-                            <li>力扣上题目的练习。</li> 
-                    </li>
+<!-- 项目经验 -->
+<section class="project info-unit">
+    <h2>
+        <i class="fa fa-terminal" aria-hidden="true"></i>个人项目</h2>
+    <hr/>
+    <ul>
+        <li>
+            <h3>
+                <span>计算机辅助BTK激酶小分子抑制剂的构效关系研究</span>
+                <time>2021-</time>
+            </h3>
+            <ul>
+                <li>技术栈：Python(pandas, numpy, scikit-learn, Rdkit), VOSviewer</li>
+                <li>对BTK激酶相关文献进行聚类分析。</li>
+                <li>收集BTK激酶小分子抑制剂的生物活性信息，构建数据库，计算描述符，并使用多种机器学习方法建立分类和回归模型。</li>
+            </ul>
+        </li>
+        <li>
+            <h3>
+                <span>实验室网站搭建与维护</span>
+                <time>2021-</time>
+            </h3>
+            <ul>
+                <li><a href="http://www.cadd408.com/index.html">CADD408</a></li>
+            </ul>
+        </li>
+        <li>
+            <h3>
+                <span>计算机类课程的大作业</span>
+                <time>2020.9-2021.6</time>
+            </h3>
+            <ul>
+                <li>技术栈：Python, Matlab, VBA</li>
+                <li>数据挖掘原型系统：关联规则分类算法、决策树分类、k-means聚类，基于tkinter的界面和可视化。</li>
+                <li>误差数据回归、检验，信号去噪与傅里叶变换。</li>
+                <li>神经网络简单实现。</li>
+                <li>力扣平台题目练习。</li>
+            </ul>
+        </li>
+
                     <li>
                         <h3>
                             <span>本科科研经历</span>
