@@ -203,13 +203,17 @@
             <li>
                 <h3>
                     <span>计算机辅助BTK激酶小分子抑制剂的构效关系研究</span>
-                    <time>2021-</time>
+                    <time>2021-2023</time>
                 </h3>
-                <ul>
-                    <li>技术栈：Python(pandas, numpy, scikit-learn, Rdkit), VOSviewer</li>
-                    <li>对BTK激酶相关文献进行聚类分析。</li>
-                    <li>收集BTK激酶小分子抑制剂的生物活性信息，构建数据库，计算描述符，并使用多种机器学习方法建立分类和回归模型。</li>
-                </ul>
+            <ul>
+                <li>技术栈：Python(pandas, numpy, scikit-learn, Rdkit), VOSviewer</li>
+                <li>对BTK激酶相关文献进行聚类分析。</li>
+                <li>收集BTK激酶小分子抑制剂的生物活性信息，构建数据库，计算描述符，并使用多种机器学习方法建立分类和回归模型。</li>
+            </ul>
+            <p>文章：<em>在 Molecular Diversity 上发表论文 Machine Learning Based Classification Models for Non-Covalent
+            Bruton's Tyrosine Kinase Inhibitors: Predictive Ability and Interpretability</em></p>
+            <p>网址：<a href="https://link.springer.com/article/10.1007/s11030-023-10696-6">https://link.springer.com/article/10.1007/s11030-023-10696-6</a></p>
+
             </li>
             <li>
                 <h3>
