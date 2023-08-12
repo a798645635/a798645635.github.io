@@ -62,7 +62,7 @@
                 <ul>
                     <li>
                         <label>个人信息</label>
-                        <span>李果 / 男 / 23岁</span>
+                        <span>李果 / 男 / 1997.4</span>
                     </li>
                     <li>
                         <label>政治面貌</label>
