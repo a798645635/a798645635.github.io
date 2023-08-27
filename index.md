@@ -202,7 +202,7 @@
     <h2 class="project-title">
         <i class="fa fa-terminal" aria-hidden="true"></i>个人项目
     </h2>
-    <hr/>
+    <hr>
     <ul class="project-list">
         <li>
             <h3 class="project-name">计算机辅助BTK激酶小分子抑制剂的构效关系研究</h3>
@@ -214,42 +214,42 @@
             Bruton's Tyrosine Kinase Inhibitors: Predictive Ability and Interpretability</a>（SCI，IF=3.364）。</em></li>
             </ul>
         </li>
+        <li>
+            <h3>
+                <span>实验室网站搭建与维护</span>
+                <time>2021-2023</time>
+            </h3>
+            <ul>
+                <li><a href="http://www.cadd408.com/index.html">CADD408</a></li>
+            </ul>
+        </li>
+        <li>
+            <h3>
+                <span>计算机类课程的大作业</span>
+                <time>2020.9-2021.6</time>
+            </h3>
+            <ul>
+                <li>技术栈：Python, Matlab, VBA</li>
+                <li>数据挖掘原型系统：关联规则分类算法、决策树分类、k-means聚类，基于tkinter的界面和可视化。</li>
+                <li>误差数据回归、检验，信号去噪与傅里叶变换。</li>
+                <li>神经网络简单实现。</li>
+                <li>力扣平台题目练习。</li>
+            </ul>
+        </li>
+        <li>
+            <h3>
+                <span>本科科研经历</span>
+                <time>2016-2020</time>
+            </h3>
+            <ul>
+                <li>麝香壮骨膏的质量标准研究。</li>
+                <li>植物油脂的酶法水解工艺研究。</li>
+                <li>年产100吨葵花籽油酸的工艺设计。</li>
+            </ul>
+        </li>
     </ul>
+</section>
 
-
-            <li>
-                <h3>
-                    <span>实验室网站搭建与维护</span>
-                    <time>2021-2023</time>
-                </h3>
-                <ul>
-                    <li><a href="http://www.cadd408.com/index.html">CADD408</a></li>
-                </ul>
-            </li>
-            <li>
-                <h3>
-                    <span>计算机类课程的大作业</span>
-                    <time>2020.9-2021.6</time>
-                </h3>
-                <ul>
-                    <li>技术栈：Python, Matlab, VBA</li>
-                    <li>数据挖掘原型系统：关联规则分类算法、决策树分类、k-means聚类，基于tkinter的界面和可视化。</li>
-                    <li>误差数据回归、检验，信号去噪与傅里叶变换。</li>
-                    <li>神经网络简单实现。</li>
-                    <li>力扣平台题目练习。</li>
-                </ul>
-            </li>
-
-                        <li>
-                            <h3>
-                                <span>本科科研经历</span>
-                                <time>2016-2020</time>
-                            </h3>
-                            <ul>
-                                <li>麝香壮骨膏的质量标准研究。</li>
-                                <li>植物油脂的酶法水解工艺研究。</li>
-                                <li>年产100吨葵花籽油酸的工艺设计。</li>
-                            </ul>
                             <h3>
                                 <span>对本专业计算机辅助药物设计的看法</span>
                             </h3>
