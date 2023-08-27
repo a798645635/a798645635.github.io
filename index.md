@@ -198,24 +198,24 @@
         <li>在重庆市南岸区环境监测站负责测量水样。</li>
     </ul>
 
-    <!-- 项目经验 -->
-    <section class="project info-unit">
-        <h2>
-            <i class="fa fa-terminal" aria-hidden="true"></i>个人项目</h2>
-        <hr/>
-        <ul>
-                <li>
-                <h3>
-                    <span>计算机辅助BTK激酶小分子抑制剂的构效关系研究</span>
-                    <time>2021-2023</time>
-                </h3>
-            <ul>
+<section class="project-section info-unit">
+    <h2 class="project-title">
+        <i class="fa fa-terminal" aria-hidden="true"></i>个人项目
+    </h2>
+    <hr/>
+    <ul class="project-list">
+        <li>
+            <h3 class="project-name">计算机辅助BTK激酶小分子抑制剂的构效关系研究</h3>
+            <ul class="project-details">
                 <li>技术栈：Python(pandas, numpy, scikit-learn, Rdkit), VOSviewer</li>
                 <li>对BTK激酶相关文献进行聚类分析。</li>
                 <li>收集BTK激酶小分子抑制剂的生物活性信息，构建数据库，计算描述符，并使用多种机器学习方法建立分类和回归模型。</li>
                 <li>文章：<em>在 Molecular Diversity 上发表论文<a href="https://link.springer.com/article/10.1007/s11030-023-10696-6"> Machine Learning Based Classification Models for Non-Covalent
-            Bruton's Tyrosine Kinase Inhibitors: Predictive Ability and Interpretability</a>（SCI，IF=3.364）。
-            </li></ul>
+            Bruton's Tyrosine Kinase Inhibitors: Predictive Ability and Interpretability</a>（SCI，IF=3.364）。</em></li>
+            </ul>
+        </li>
+    </ul>
+
 
             <li>
                 <h3>
@@ -256,6 +256,7 @@
                                 <li> 事实上，传统的CADD仍然是在机器学习的基础上做聚类、分类与回归，这种机器学习方式从机理上决定了其只能得到局部最优，绝对不可能得到全局最优，因为你训练的数据本身就是有偏向性的，因此，从全局来看一定是过拟合的。即还是在原有的结构基础上排列组合，不可能生成一个完完全全新奇的人类从来没有想到过的结构式。其次，计算机辅助药物设计只是一个伪需求，真正的需求是活性分子，跟计算机其它领域不同的是，我并不需要做长期使用，只需要用一次你的这个模型。目前AI制药一共有三种方向，其一是做药物，做药物的坏处是需要拿到测活反馈来进一步提高算法，但问题是如果建立湿实验室，公司就会由轻资企业转为重资企业，没有工厂流水线，仅仅靠烧投资人的钱和没啥利润的项目，很容易出现现金流的问题，这是十分危险的，而药物研发又是一个长期的过程，很难收回资金，因此但凡涉及自建实验室基本都是死路；其二是做平台，这点腾讯已经做过了，算法再厉害，依靠公共数据很难针对特定项目得到好的效果，还有就是盗版问题，强如薛定谔，上市后股票也在下跌与亏损；其三是结合上述两种画大饼。画大饼是不是真的AI，大家都清楚，不这样很难拿到投资与项目。</li><li> 目前难以解决的问题</li><li> 1.海外的大药企都有自己的研发部，而国内药企的项目预算有限，客户的付费意愿并不强，这也导致国内最好的aidd公司估值有薛定谔的五分之一，但营收连薛定谔的百分之一都不到。2.任何算法都要与业务结合，技术半毛钱都不值，值钱的是产品与数据，合成路线、专利、成药性，计算机的快速迭代在测活面前难以实现。3.数据很差，数据很少，数据很贵，数据本身有独有性，数据与实验的差别，如何衡量一个算法或者化合物的好坏，拿不到药企核心数据很难把项目做好。</li>
                             
                         </li>
+</section>
                 <!-- 自我评价 -->
                 <section class="work info-unit">
                     <h2>
