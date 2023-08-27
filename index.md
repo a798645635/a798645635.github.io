@@ -204,7 +204,7 @@
             <i class="fa fa-terminal" aria-hidden="true"></i>个人项目</h2>
         <hr/>
         <ul>
-
+                <li>
                 <h3>
                     <span>计算机辅助BTK激酶小分子抑制剂的构效关系研究</span>
                     <time>2021-2023</time>
