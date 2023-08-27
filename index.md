@@ -204,7 +204,7 @@
     </h2>
     <hr/>
     <ul class="project-list">
-        <li>
+
             <h3 class="project-name">计算机辅助BTK激酶小分子抑制剂的构效关系研究</h3>
             <ul class="project-details">
                 <li>技术栈：Python(pandas, numpy, scikit-learn, Rdkit), VOSviewer</li>
@@ -213,7 +213,7 @@
                 <li>文章：<em>在 Molecular Diversity 上发表论文<a href="https://link.springer.com/article/10.1007/s11030-023-10696-6"> Machine Learning Based Classification Models for Non-Covalent
             Bruton's Tyrosine Kinase Inhibitors: Predictive Ability and Interpretability</a>（SCI，IF=3.364）。</em></li>
             </ul>
-        </li>
+
     </ul>
 
 
