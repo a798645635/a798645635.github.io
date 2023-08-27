@@ -107,7 +107,11 @@
                     <progress value="80" max="100"></progress>
                 </li>
                 <li>
-                    <label>html</label>
+                    <label>SQL</label>
+                    <progress value="60" max="100"></progress>
+                </li>
+                <li>
+                    <label>Html</label>
                     <progress value="60" max="100"></progress>
                 </li>
                 <li>
