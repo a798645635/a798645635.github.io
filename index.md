@@ -215,7 +215,7 @@
                 <li>收集BTK激酶小分子抑制剂的生物活性信息，构建数据库，计算描述符，并使用多种机器学习方法建立分类和回归模型。</li>
                 <li>文章：<em>在 Molecular Diversity 上发表论文<a href="https://link.springer.com/article/10.1007/s11030-023-10696-6"> Machine Learning Based Classification Models for Non-Covalent
             Bruton's Tyrosine Kinase Inhibitors: Predictive Ability and Interpretability</a>（SCI，IF=3.364）。
-            </ul>
+            </li></ul>
 
             <li>
                 <h3>
