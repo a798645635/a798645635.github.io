@@ -204,6 +204,7 @@
             <h3 class="project-name">计算机辅助BTK激酶小分子抑制剂的构效关系研究</h3>
             <ul class="project-details">
                 <li>技术栈：Python(pandas, numpy, scikit-learn, Rdkit), VOSviewer</li>
+                <li>涉及算法：机器学习经典方法如SVM、PCA、各种树模型等各种分类聚类算法；DNN、RNN等神经网络；可解释性算法SHAP</li>
                 <li>对BTK激酶相关文献进行聚类分析。</li>
                 <li>收集BTK激酶小分子抑制剂的生物活性信息，构建数据库，计算描述符，并使用多种机器学习方法建立分类和回归模型。</li>
                 <li>文章：<em>在 Molecular Diversity 上发表论文<a href="https://link.springer.com/article/10.1007/s11030-023-10696-6"> Machine Learning Based Classification Models for Non-Covalent
@@ -225,7 +226,7 @@
                 <time>2020.9-2021.6</time>
             </h3>
             <ul>
-                <li>技术栈：Python, Matlab, MySQL, VBA</li>
+                <li>技术栈：Python(fuzzywuzzy, tkinter, pyautogui ), Matlab, MySQL, VBA, R</li>
                 <li>数据挖掘原型系统：关联规则分类算法、决策树分类、k-means聚类，基于tkinter的界面和可视化。</li>
                 <li>误差数据回归、检验，信号去噪与傅里叶变换。</li>
                 <li>神经网络简单实现。</li>
